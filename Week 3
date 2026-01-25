@@ -1,0 +1,22 @@
+# Tuần 3
+
+**Thời gian:** 19/01/2026 – 23/01/2026
+
+## Nội dung thực tập
+
+* Tham quan trung tâm dữ liệu (máy chủ, sensor).
+* Tham gia meeting nhóm về tiến độ xây dựng Nền tảng tích hợp dữ liệu ngành phục vụ chuyển đổi số nông nghiệp.
+* Đọc tài liệu và bắt đầu nghiên cứu cách tích hợp OAuth2 với hệ thống Single Sign-On (SSO) của Bộ.
+
+## Kết quả đạt được
+
+* Nắm được quy trình phát triển API theo chuẩn OpenAPI/Swagger và cách viết tài liệu API tự động.
+* Kỹ năng làm việc nhóm: tham gia meeting, trình bày ý tưởng, tiếp nhận phản hồi.
+* Kỹ năng viết unit test tốt hơn, đặc biệt là test các hàm xử lý dữ liệu địa lý phức tạp.
+
+## Kế hoạch tuần tới
+
+* Hoàn thiện và deploy module API quản lý layer lên môi trường test (dùng Docker).
+* Nghiên cứu và đề xuất giải pháp tích hợp Kafka cho phần streaming dữ liệu quan trắc.
+* Tham gia code review chéo với các bạn thực tập khác.
+* Tìm hiểu thêm về tiêu chuẩn dữ liệu mở (Open Data) trong lĩnh vực nông nghiệp theo định hướng của Bộ.
